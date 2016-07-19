@@ -8,7 +8,7 @@ weight: 290
 [![iOS](https://img.shields.io/badge/iOS-Supported-green.svg)](https://github.com/kaltura/player-sdk-native-ios)
 
 The Kaltura Player-SDK can be added to any project, of any size, quickly and easily by following these steps.
-
+vit
 ## Installing the Kaltura iOS Player SDK  
 
 There are two options for installing the Kaltura iOS Player SDK:
